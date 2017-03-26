@@ -1,0 +1,30 @@
+# eclipse
+.classpath
+.project
+.settings
+build/
+# sts
+.springBeans
+# Mac
+.DS_Store
+# Windows
+Thumbs.db
+# Maven
+target/
+release.properties
+*.versionsBackup
+*.releaseBackup
+# Idea
+*.iml
+.idea/
+# npm
+node_modules/
+node
+npm-debug.log
+# bower
+bower_components/
+# Visual Studio Code
+.vscode/
+# other
+*.swp
+*.bak
